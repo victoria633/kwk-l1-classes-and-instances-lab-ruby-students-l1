@@ -11,6 +11,7 @@ def name2= (dog_name_2)
 end 
 def name2
   @this_dog_snoopy
+end
   
   def name3= (dog_name_3)
     @this_dog_lassie =dog_name_3
