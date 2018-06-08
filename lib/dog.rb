@@ -33,3 +33,4 @@ lassie = Dog.new
 lassie.name3 = "Lassie"
 puts lassie.name3
 end 
+end
